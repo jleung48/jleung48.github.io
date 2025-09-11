@@ -182,3 +182,4 @@ cython_debug/
 .quarto/
 **/*.quarto_ipynb
 .Rproj.user/
+*.Rproj
