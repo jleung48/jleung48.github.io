@@ -10,7 +10,6 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 print('Hello World')
 ```
 
-
 ```{R}
-penguins
+mtcars
 ```
