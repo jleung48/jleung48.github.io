@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore
 /.quarto/
 **/*.quarto_ipynb
+.Rproj.user
