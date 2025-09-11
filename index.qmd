@@ -9,3 +9,8 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 print('Hello World')
 ```
+
+
+```{R}
+penguins
+```
